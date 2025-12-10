@@ -1,7 +1,8 @@
 ### Simple Stylization Techniques in Unreal Engine | GDC 2024
 
-Created on UE-58.0  
-Added features(plugins): 
+## Created on UE-58.0  
+<br/>
+Added features(plugins): <br/>
 Mover<br/>
 GAS<br/>
 Locomotion<br/>
